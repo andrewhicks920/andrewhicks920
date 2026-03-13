@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**andrewhicks920/andrewhicks920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Andrew Hicks
 
-Here are some ideas to get you started:
+**Computer Science @ University of Arizona**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-hicks-006336271)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewhicks920@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewhicks920)
+
+</div>
+
+---
