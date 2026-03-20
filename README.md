@@ -52,6 +52,6 @@
     <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhicks920&show_icons=true&locale=en&layout=compact" alt="andrewhicks920" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhicks920&show_icons=true&locale=en&layout=compact&theme=dark" alt="andrewhicks920" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewhicks920&show_icons=true&locale=en" alt="andrewhicks920" /></p>
