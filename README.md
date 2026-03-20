@@ -55,23 +55,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhicks920&show_icons=true&locale=en&layout=compact" alt="andrewhicks920" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewhicks920&show_icons=true&locale=en" alt="andrewhicks920" /></p>
-
-
-
-
-
-</div>
-
----
-
-## Stats
-
-<div align="center">
-
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewhicks920&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewhicks920&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
