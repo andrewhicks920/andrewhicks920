@@ -57,17 +57,6 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhicks920&layout=compact&theme=gruvbox" 
-    media="(prefers-color-scheme: dark)" />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhicks920&layout=compact&theme=default" 
-    media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrewhicks920&layout=compact"/>
-</picture>
-
-
-<picture>
-  <source 
     srcset="https://github-readme-stats.vercel.app/api?username=andrewhicks920&show_icons=true&theme=dark" 
     media="(prefers-color-scheme: dark)" />
   <source 
