@@ -1,8 +1,5 @@
 # Hi 👋, I'm Andrew Hicks
 
-- I'm currently working on **RAG system that gives physicians a conversational interface over patient history and curated medical pubs. (PubMed, CDC guidelines, FDA drug labels). Built with FastAPI, LangChain, and FAISS**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/andrewhicks920" target="blank">
