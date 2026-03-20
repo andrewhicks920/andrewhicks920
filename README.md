@@ -1,11 +1,10 @@
-<div align="center">
+# Hi 👋, I'm Andrew Hicks
 
-# Andrew Hicks
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=andrewhicks920&label=Profile views&color=0e75b6&style=flat" alt="andrewhicks920" /> 
+</p>
 
-**Computer Science @ University of Arizona**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-hicks-006336271)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrewhicks920@gmail.com)
+- 🔭 I'm currently working on **RAG system that gives physicians a conversational interface over patient history and curated medical pubs. (PubMed, CDC guidelines, FDA drug labels). Built with FastAPI, LangChain, and FAISS**
 
 
 <h3 align="left">Connect with me:</h3>
