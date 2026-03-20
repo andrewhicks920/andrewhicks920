@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=andrewhicks920&label=Profile views&color=0e75b6&style=flat" alt="andrewhicks920" /> 
 </p>
 
-- 🔭 I'm currently working on **RAG system that gives physicians a conversational interface over patient history and curated medical pubs. (PubMed, CDC guidelines, FDA drug labels). Built with FastAPI, LangChain, and FAISS**
+- I'm currently working on **RAG system that gives physicians a conversational interface over patient history and curated medical pubs. (PubMed, CDC guidelines, FDA drug labels). Built with FastAPI, LangChain, and FAISS**
 
 
 <h3 align="left">Connect with me:</h3>
