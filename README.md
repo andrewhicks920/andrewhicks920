@@ -6,5 +6,5 @@ Primary interests:
 
 - Full Stack & ML/AI Development
 - Systems & Security
-- Game Development & algorithms
+- Game Development & Algorithms
 - Xedni Calculus (lol)
